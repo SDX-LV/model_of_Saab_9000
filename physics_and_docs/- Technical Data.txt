@@ -1,0 +1,39 @@
+here are some precise technical details of 1997 200hp 2.3turbo version (Aero had a bit different stats, but most parts are the same, too bad I didn't get those) these are from Saab factory manuals
+
+gearbox final drive ratio - 3.609
+overall ratios
+1 - 12.21
+2 - 6.35
+3 - 4.03
+4 - 3.22
+5 - 2.54
+R - 11.43
+
+tyres 205/60 R15
+tyre dynamic radius - 306mm
+
+road speed @ 1000rpm
+1 - 9.4km/h
+2 - 18.2
+3 - 28.6
+4 - 35.8
+5 - 45.4
+R - 10.1
+
+power - 147KW (200hp)/5500rpm
+torque - 323Nm/1800rpm
+rev limiter @ 6000rpm
+top speed 235km/h
+0-100 - 7.5s
+
+length 4761mm
+width (no mirrors) 1778mm
+hight 1420mm
+clearence 159mm
+wheelbase 2672
+weight - 1500kg
+weight distribution - 60/40 front/rear
+
+turn radius - 5.45m
+steering - 3,2turns
+front springs - 3970N (843-874kg) or 4163N (875-906kg)
