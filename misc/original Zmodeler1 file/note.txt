@@ -1,0 +1,4 @@
+This ".z3d" file can be opened in ZModeler 1.07b as long as the textures from the "\3D_mesh\Textures\" and "\game_files\GTA-ViceCity\GTA textures\" folders of the initial v1.05 commit are placed in the same folder as the ".z3d" file.
+
+
+Also note that "ZModeler 1.07b" does not work with very high resolution screens - try max 1920x1080 desktop resolution.
